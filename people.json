@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "M",
+    "firstName": "Charles",
+    "lastName": "Smith",
+    "age": 31
+  },
+  {
+    "gender": "F",
+    "firstName": "Jessica",
+    "lastName": "White",
+    "age": 39
+  },
+  {
+    "gender": "F",
+    "firstName": "Nancy",
+    "lastName": "Smith",
+    "age": 51
+  },
+  {
+    "gender": "F",
+    "firstName": "Nancy",
+    "lastName": "Jones",
+    "age": 63
+  },
+  {
+    "gender": "M",
+    "firstName": "David",
+    "lastName": "Miller",
+    "age": 76
+  },
+  {
+    "gender": "M",
+    "firstName": "Richard",
+    "lastName": "Moore",
+    "age": 28
+  },
+  {
+    "gender": "M",
+    "firstName": "Daniel",
+    "lastName": "Miller",
+    "age": 38
+  },
+  {
+    "gender": "M",
+    "firstName": "Charles",
+    "lastName": "Wilson",
+    "age": 36
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Thomas",
+    "age": 50
+  },
+  {
+    "gender": "M",
+    "firstName": "Charles",
+    "lastName": "Thomas",
+    "age": 43
+  },
+  {
+    "gender": "F",
+    "firstName": "Jennifer",
+    "lastName": "Wilson",
+    "age": 30
+  },
+  {
+    "gender": "F",
+    "firstName": "Sarah",
+    "lastName": "Moore",
+    "age": 57
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Anderson",
+    "age": 21
+  },
+  {
+    "gender": "F",
+    "firstName": "Sarah",
+    "lastName": "Jackson",
+    "age": 40
+  },
+  {
+    "gender": "F",
+    "firstName": "Karen",
+    "lastName": "White",
+    "age": 29
+  },
+  {
+    "gender": "F",
+    "firstName": "Karen",
+    "lastName": "Wilson",
+    "age": 22
+  },
+  {
+    "gender": "F",
+    "firstName": "Nancy",
+    "lastName": "Jones",
+    "age": 28
+  },
+  {
+    "gender": "F",
+    "firstName": "Karen",
+    "lastName": "Anderson",
+    "age": 74
+  },
+  {
+    "gender": "F",
+    "firstName": "Jessica",
+    "lastName": "Jones",
+    "age": 36
+  },
+  {
+    "gender": "M",
+    "firstName": "David",
+    "lastName": "Johnson",
+    "age": 45
+  }
+]
